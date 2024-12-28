@@ -7,7 +7,6 @@ This repository contains a **rough draft** of a neural network developed for rec
 The goal of this project is to create a neural network that can classify handwritten digits (0-9) using OpenCV to preprocess images. This is a **work in progress**, with plans to improve the model’s accuracy and efficiency over time.
 
 ### Current Features:
-- Basic neural network architecture for digit recognition.
-- OpenCV for preprocessing and manipulating images.
-- Simple dataset of handwritten digits for training and testing.
+- Basic convolutional neural network architecture for digit recognition.
+- Built an interactive system using OpenCV that allows users to draw digits, preprocesses them dynamically, and predicts the digit with the trained model
 - Still under development; improvements are planned.
