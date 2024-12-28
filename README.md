@@ -4,7 +4,7 @@ This repository contains a **rough draft** of a neural network developed for rec
 
 ## Project Overview
 
-The goal of this project is to create a neural network that can classify handwritten digits (0-9) using OpenCV to preprocess images. This is a **work in progress**, with plans to improve the model’s accuracy and efficiency over time.
+The goal of this project is to create a neural network capable of classifying handwritten digits (0-9) using a combination of the MNIST dataset and OpenCV for real-time image preprocessing and interaction. This project showcases the development of an end-to-end solution, combining dataset preparation, model training, and deployment into an interactive system. This is a work in progress, with plans to improve the model’s accuracy and efficiency over time.
 
 ### Current Features:
 - Basic convolutional neural network architecture for digit recognition.
